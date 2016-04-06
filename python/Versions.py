@@ -1,3 +1,5 @@
+# This script prints the version of the different python libraries installed on the device.
+
 # python version
 import sys
 print('python    : {}'.format(sys.version))
