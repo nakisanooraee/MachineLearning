@@ -20,3 +20,5 @@ print('sklearn   : {}'.format(sklearn.__version__))
 
 import seaborn
 print('seaborn   :{}'.format(seaborn.__version__))
+
+pip list   # print the list of all python libraries 
